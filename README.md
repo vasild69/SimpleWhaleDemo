@@ -1,4 +1,4 @@
-# docker-whale
+# docker-whale-v1
 
 Run me : `docker run -p80:80 ushamandya/whale-example`
 
